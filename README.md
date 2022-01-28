@@ -25,4 +25,4 @@ Pycm
 Khondoker Mirazul Mumenin
 Md. Abdul Awal
 ```
-For inquires or suggestions please contact [Khondoker Mirazul Mumenin](k.mirazulmumenin@gmail.com) and [Md. Abdul Awal](md.abdul.awal.uq@gmail.com)
+For inquires or suggestions please contact [Khondoker Mirazul Mumenin](mailto: k.mirazulmumenin@gmail.com) and [Md. Abdul Awal](mailto: md.abdul.awal.uq@gmail.com)
