@@ -5,7 +5,7 @@ This repository contains code for the paper titled "HGSORF: Henry Gas Solubility
 ![image](https://user-images.githubusercontent.com/81968951/151330847-d32c0432-afba-474e-8f64-525ddef253c4.png)
 
 # Folder description:
-###### HGSORF_CSection: this folder contains pretrained file and corresponding codes. User have to run [this script](https://github.com/genos29/HGSORF_CSection/blob/main/HGSORF_CS/Csection_final.ipynb) to get the result presented in the paper. Note that, [this script](https://github.com/genos29/HGSORF_CSection/blob/main/HGSORF_CS/Csection_final.ipynb) is developed on Python 3.6 & SkLearn 0.24.1. Two custom made utilis: [Ploting_Utils](https://github.com/genos29/HGSORF_CSection/blob/main/HGSORF_CS/ploting_utils_v1.ipynb) and [Confusion_Matrix](https://github.com/genos29/HGSORF_CSection/blob/main/HGSORF_CS/confusion_matrix_pretty_print.ipynb) are required to run the code. The following dependencies must be installed before running this script.
+###### HGSORF_CSection: this folder contains pretrained file and corresponding codes. User have to run [Csection_final.ipynb script](https://github.com/genos29/HGSORF_CSection/blob/main/HGSORF_CS/Csection_final.ipynb) to get the result presented in the paper. Note that, [Csection_final.ipynb script](https://github.com/genos29/HGSORF_CSection/blob/main/HGSORF_CS/Csection_final.ipynb) is developed on Python 3.6 & SkLearn 0.24.1. Two custom made utilis: [Ploting_Utils](https://github.com/genos29/HGSORF_CSection/blob/main/HGSORF_CS/ploting_utils_v1.ipynb) and [Confusion_Matrix](https://github.com/genos29/HGSORF_CSection/blob/main/HGSORF_CS/confusion_matrix_pretty_print.ipynb) are required to run the code. The following dependencies must be installed before running this script.
 Dependencies:
 ```
 Numpy
