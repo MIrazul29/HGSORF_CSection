@@ -2,7 +2,7 @@
 This repository contains code for the paper titled "HGSORF: Henry Gas Solubility Optimization-based Random Forest for C-Section Prediction and XAI-based Cause Analysis", which has been submitted to Computers in Biology and Medicine. The overall graphical block diagram of our proposed approached is illustrated in Figure below.
   
 
-![Wrok Flow-new](https://user-images.githubusercontent.com/81968951/168336920-d4a55088-eef0-46f5-9ddb-37209ea3d996.png)
+![Wrok Flow-new](https://user-images.githubusercontent.com/81968951/168468493-eadb8e65-b715-471d-b488-c1144f30d115.png)
 
 
 # Folder description:
